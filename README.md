@@ -1,2 +1,2 @@
 # angle_transformation
-tool to transfer gravitational_waves sky position (ra,dec) and (polarization) into (theta,phi,psi) against a given detector(e.g. H1, L1, V1...))
+A tool to transfer gravitational_waves sky position (ra,dec) and (polarization) into (theta,phi,psi) against a given detector(e.g. H1, L1, V1...))
